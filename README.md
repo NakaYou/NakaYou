@@ -1,1 +1,2 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NakaYou)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NakaYou&repo=NakaYou)](https://github.com/anuraghazra/github-readme-stats)

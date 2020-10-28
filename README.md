@@ -1,2 +1,2 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NakaYou&count_private=true&theme=algolia)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NakaYou&count_private=true&theme=algolia)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NakaYou&count_private=true&theme=react)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NakaYou&count_private=true&theme=react)

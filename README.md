@@ -1,8 +1,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NakaYou&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NakaYou&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NakaYou&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 
 ## プロフィール
@@ -22,7 +20,7 @@
 
 ## スキル
 
- - Java(atcoderしてる．凄く自信がない)
+ - Java(AtCoderしてる．凄く自信がない)
 
  - C(部活と授業で使う．もっと自信がない)
 
@@ -34,11 +32,15 @@
 
 - Unity
 
-- Aruduino
+- Arduino(全然してない)
+
+- HTML\CSS\JavaScript\TypeScript
+
+- Java
+
+- Python
 
 - 資格勉強(基本情報技術者）
-
-  
   
 
 ### リンク
@@ -52,3 +54,4 @@
 - [AtCoder](https://atcoder.jp/users/nakayou)
 
 - [質問箱](https://peing.net/ja/nakayou_jk?p=auto&utm_source=twitter&utm_medium=timeline&utm_campaign=auto_recruitment)
+- [ブログ(三日坊主)](https://ameblo.jp/nakayou-jk)

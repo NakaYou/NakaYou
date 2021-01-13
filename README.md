@@ -34,8 +34,6 @@
 
 - HTML\CSS\JavaScript\TypeScript
 
-- Java
-
 - Python
 
 - 資格勉強(基本情報技術者）

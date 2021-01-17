@@ -13,42 +13,11 @@
 
 プログラミング歴：２０２０年の１０月あたりから始めた
 
-部活：パソコン部の掛け持ち
-
-  
-  
-
-## スキル
-
- - Java(AtCoderしてる．凄く自信がない)
-
- - C(部活と授業で使う．もっと自信がない)
-
-以上...
-
-  
-
-## 勉強中
-
-- Unity
-
-- HTML\CSS\JavaScript\TypeScript
-
-- Python
-
-- 資格勉強(基本情報技術者）
-  
-- AWS
-
-- React
-
-- NEXT.js
-
-etc
+部活：パソコン部
 
 ### リンク
 
---------
+- [僕のポートフォリオサイト](https://nakayou.vercel.app/)
 
 - [Twitter](https://twitter.com/NakaYou_JK)
 
@@ -56,4 +25,4 @@ etc
 
 - [AtCoder](https://atcoder.jp/users/nakayou)
 
-- [質問箱](https://peing.net/ja/nakayou_jk?p=auto&utm_source=twitter&utm_medium=timeline&utm_campaign=auto_recruitment)
+- [質問箱](https://marshmallow-qa.com/nakayou_jk)

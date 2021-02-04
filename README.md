@@ -11,41 +11,13 @@
 
 職業：高専生（情報科1年）
 
-プログラミング歴：四か月に満たないぐらい
+プログラミング歴：２０２０年の１０月あたりから始めた
 
-部活：ロボット部とパソコン部の掛け持ち
-
-  
-  
-
-## スキル
-
- - Java(AtCoderしてる．凄く自信がない)
-
- - C(部活と授業で使う．もっと自信がない)
-
-以上...
-
-  
-
-## 勉強中
-
-- Unity
-
-- Arduino(全然してない)
-
-- HTML\CSS\JavaScript\TypeScript
-
-- Java
-
-- Python
-
-- 資格勉強(基本情報技術者）
-  
+部活：パソコン部
 
 ### リンク
 
---------
+- [僕のポートフォリオサイト](https://nakayou.vercel.app/)
 
 - [Twitter](https://twitter.com/NakaYou_JK)
 
@@ -53,5 +25,4 @@
 
 - [AtCoder](https://atcoder.jp/users/nakayou)
 
-- [質問箱](https://peing.net/ja/nakayou_jk?p=auto&utm_source=twitter&utm_medium=timeline&utm_campaign=auto_recruitment)
-- [ブログ(三日坊主)](https://ameblo.jp/nakayou-jk)
+- [質問箱](https://marshmallow-qa.com/nakayou_jk)

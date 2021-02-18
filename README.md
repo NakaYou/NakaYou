@@ -5,7 +5,7 @@
 
 ## Profile
 
-name：なかよう
+name：NakaY0u
 
 age：16
 

@@ -3,26 +3,26 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NakaYou&count_private=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
   
 
-## プロフィール
+## Profile
 
-名前：なかよう
+name：なかよう
 
-年齢：16歳
+age：16
 
-職業：高専生（情報科1年）
+profession：1st grade student of NCT(National College of Technology) 
 
-プログラミング歴：２０２０年の１０月あたりから始めた
+history：I started studying about technology from october in 2020
 
-部活：パソコン部
+club：computer club
 
-### リンク
+### Link
 
-- [僕のポートフォリオサイト](https://nakayou.vercel.app/)
+- [mysite](https://nakayou.vercel.app/)
 
-- [Twitter](https://twitter.com/NakaYou_JK)
+- [Twitter](https://twitter.com/NakaY0u)
 
 - [GitHub](https://github.com/NakaYou)
 
 - [AtCoder](https://atcoder.jp/users/nakayou)
 
-- [質問箱](https://marshmallow-qa.com/nakayou_jk)
+- [marshmallow](https://marshmallow-qa.com/nakayou_jk)

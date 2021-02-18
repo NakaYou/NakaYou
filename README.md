@@ -5,7 +5,7 @@
 
 ## Profile
 
-name：NakaY0u
+name：NakaYou
 
 age：16
 
